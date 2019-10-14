@@ -18,4 +18,5 @@
         'views/product_template.xml',
         'views/product_template_tag.xml',
     ],
+    'installable': True,
 }
